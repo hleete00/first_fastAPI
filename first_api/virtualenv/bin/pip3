@@ -1,4 +1,4 @@
-#!/Users/hl/_DEV_/FastAPI/first_api/virtualenv/bin/python3.9
+#!/Users/hl/_DEV_/FastAPI/first_api/virtualenv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
